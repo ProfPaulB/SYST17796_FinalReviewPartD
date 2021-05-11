@@ -11,7 +11,6 @@ package pizzashop;
 public class CheesePizza extends Pizza {
 
     public CheesePizza() {
-        super();
         super.addTopping("cheese");
     }
 

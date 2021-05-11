@@ -15,8 +15,8 @@ public class Pizza {
 
     public void bake(int temperature) {
         bakeTemp = temperature;
-        //do some baking here, code not implemented yet
-        //not necessary for the review
+        // do some baking here, code not implemented yet
+        // not necessary for the review...
     }
 
     /**

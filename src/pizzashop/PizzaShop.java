@@ -1,5 +1,4 @@
 package pizzashop;
-
 import java.util.Scanner;
 
 /**

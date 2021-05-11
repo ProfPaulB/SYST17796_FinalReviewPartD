@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pizzashop;
 
 /**
@@ -16,7 +11,6 @@ package pizzashop;
 public class PepperoniPizza extends Pizza {
 
     public PepperoniPizza() {
-        super();
         super.addTopping("cheese");
         super.addTopping("pepperoni");
     }

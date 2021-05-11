@@ -14,10 +14,12 @@ class PizzaFactory {
      * returns a concrete pizza object
      *
      * @param type the type of pizza to return
-     * @return
+     * @return the pizza!
      */
     public Pizza createPizza(String type) {
+       
         Pizza pizza = null;
+        
         if (type.equals("cheese")) {
             pizza = new CheesePizza();
         } else if (type.equals("pepperoni")) {
