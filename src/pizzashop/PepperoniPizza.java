@@ -6,7 +6,7 @@ package pizzashop;
  * Head First Design patterns. Sebastopol, CA: O'Reilly.
  *
  * @author dancye
- * @author Paul Bonenfant, April 2021
+ * @author Paul Bonenfant, May 2021
  */
 public class PepperoniPizza extends Pizza {
 

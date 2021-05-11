@@ -6,7 +6,7 @@ package pizzashop;
  * patterns. Sebastopol, CA: O'Reilly.
  *
  * @author dancye
- * @author Paul Bonenfant, April 2021
+ * @author Paul Bonenfant, May 2021
  */
 class PizzaFactory {
 

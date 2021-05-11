@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * A class that represents a basic pizza
  *
  * @author dancye
- * @author Paul Bonenfant, April 2021
+ * @author Paul Bonenfant, May 2021
  */
 public class Pizza {
 
