@@ -6,9 +6,9 @@ import java.util.ArrayList;
  * A class that represents a basic pizza
  *
  * @author dancye
- * @author Paul Bonenfant, May 2021
+ * @author Paul Bonenfant, Aug 2021
  */
-public class Pizza {
+public abstract class Pizza {
 
     public int bakeTemp = 500;//temp to bake at
     private ArrayList<String> ingredients = new ArrayList();
